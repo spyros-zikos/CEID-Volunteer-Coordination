@@ -15,5 +15,6 @@
 - [Kallinikos K](https://github.com/Kall-K)
 - [Grigoris Delimpaltadakis](https://github.com/gregdeli)
 
+
 > [!NOTE]
 > Original repo: https://github.com/gregdeli/Volunteer-Coordination-Platform
